@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendario Pato 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendario de Pato 2026
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+BEGIN:VEVENT
+UID:pato-20261010-bajaventaja@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Pato: Torneo Argentino de Baja Ventaja
+LOCATION:Gral. Las Heras
+DESCRIPTION:De 10 a 16 tantos. Máx. un jugador de 6. Mín. 1.\nPasó del 3 y 4 al 10 y 11 de octubre.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261010-ligafem@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Pato: Liga Femenina (picadero)
+LOCATION:Gral. Las Heras
+DESCRIPTION:Pato de picadero.\nPasó del 3 y 4 al 10 y 11 de octubre.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261010-monaco@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261013
+SUMMARY:Pato: Copa Daniel Mónaco
+LOCATION:CS y CP Gral. Balcarce
+DESCRIPTION:De 10 a 16 tantos. Mín. jugador de 1 tanto.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261017-barrancas@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Pato: A confirmar (Barrancas del Salado)
+LOCATION:Barrancas del Salado
+DESCRIPTION:A confirmar.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261017-elfogon@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Pato: A confirmar (El Fogón)
+LOCATION:El Fogón
+DESCRIPTION:A confirmar.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261024-capital@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Pato: Copa Capital Nacional
+LOCATION:Gral. Las Heras
+DESCRIPTION:De 12 a 20 tantos. Mín. jugadores de 2 tantos.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261024-ligafem@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Pato: Liga Femenina (picadero)
+LOCATION:Gral. Las Heras
+DESCRIPTION:Pato de picadero.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261030-altaventaja@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:Pato: Torneo Argentino de Alta Ventaja
+LOCATION:Campo Argentino de Pato
+DESCRIPTION:De 17 a 27 tantos. Mín. jugador de 3 tantos.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261031-ligafem@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:Pato: Liga Femenina (picadero)
+LOCATION:Campo Argentino de Pato
+DESCRIPTION:Pato de picadero.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261106-copaargentina@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:Pato: Triple Corona - Copa Argentina
+LOCATION:Campo Argentino de Pato
+DESCRIPTION:De 20 a 40 tantos. Mín. jugador de 3 tantos.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261107-picadero@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Pato de picadero
+DESCRIPTION:Pato de picadero. El calendario no indica la sede.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261120-elrecuerdo@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Pato: Triple Corona - Copa El Recuerdo
+LOCATION:Campo Argentino de Pato
+DESCRIPTION:De 20 a 40 tantos. Mín. jugador de 3 tantos.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261121-picadero@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:Pato de picadero
+DESCRIPTION:Pato de picadero. El calendario no indica la sede.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261205-clasificacion@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261209
+SUMMARY:Pato: Clasificación 84º Abierto Argentino
+LOCATION:Campo Argentino de Pato
+DESCRIPTION:De 20 a 40 tantos. Mín. jugador de 3 tantos.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261205-picadero@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261209
+SUMMARY:Pato de picadero
+DESCRIPTION:Pato de picadero. El calendario no indica la sede.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261212-clasificacion@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:Pato: Clasificación 84º Abierto Argentino
+LOCATION:Campo Argentino de Pato
+DESCRIPTION:De 20 a 40 tantos. Mín. jugador de 3 tantos.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pato-20261221-final@calendario-pato
+DTSTAMP:20261002T200500Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Pato: Final 84º Abierto Argentino
+LOCATION:Palermo Cancha 1
+DESCRIPTION:De 20 a 40 tantos. Mín. jugador de 3 tantos.\nFuente: pato.org.ar/calendario-de-pato
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
